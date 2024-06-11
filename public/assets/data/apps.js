@@ -9,7 +9,12 @@ var apps = [
       "title": "Google",
       "url": "https://www.google.com/?safe=active&ssui=on",
       'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
-      
+    },
+    {
+      "id": "Rom Files",
+      "title" : "Rom Files",
+      "url": "https://sites.google.com/site/minecrafterdiskstation/roms",
+      'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
     },
     {
       "id": "discord",
