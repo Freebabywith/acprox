@@ -1,10 +1,10 @@
 {
-  "name": "Silly Little App",
-  "short_name": "SLA",
+  "name": "DSauce",
+  "short_name": "DSA",
   "theme_color": "red",
   "background_color": "silver",
   "start_url": "./",
-  "id": "sla",
+  "id": "DSA",
   "display": "standalone",
   "scope": "./",
   "icons": [
