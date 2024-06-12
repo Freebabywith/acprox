@@ -12,9 +12,9 @@ var apps = [
       
     },
     {
-      "id": "PurePro",
-      "title": "PurePro Games",
-      "url": "https://dsa-games.vercel.app/",
+      "id": "Discord.com",
+      "title": "Discord",
+      "url": "http://discord.com/",
       'image': 'https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg'
     },
     {
