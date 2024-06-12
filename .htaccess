@@ -1,4 +1,0 @@
-AuthType Basic 
-AuthName "My Protected Folder" 
-AuthUserFile /home/u165799892/domains/codelessfix.app/public_html/.htpasswd
-require valid-user
