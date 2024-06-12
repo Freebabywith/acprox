@@ -17,6 +17,12 @@ var apps = [
       'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
     },
     {
+      "id": "Purepro",
+      "title": "Purepro",
+      "url": "https://dsa-games.vercel.app/",
+      'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
+    },
+    }
       "id": "discord",
       "title": "Discord",
       "url": "https://discord.com/app",
