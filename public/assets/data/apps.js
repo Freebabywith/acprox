@@ -30,12 +30,7 @@ var apps = [
     
     },
     {
-      'id': 'vscode',
-      'title': 'Visual Studio Code',
-      'url': 'https://vscode.dev/',
-      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'
-    },
-    {
+      
       "id": "reddit",
       "title": "Reddit",
       "url": "https://reddit.com",
