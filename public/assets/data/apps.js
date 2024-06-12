@@ -27,18 +27,7 @@ var apps = [
       "title": "Discord",
       "url": "https://discord.com/app",
       'image': 'https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg'
-    },
-    {
-      "id": "telegram",
-      "title": "Telegram",
-      "url": "https://web.telegram.org/a/",
-      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png'
-    }, 
-    {
-      "id": "geforce",
-      "title": "GeForce NOW (may not work)",
-      "url": "https://play.geforcenow.com",
-      'image': 'https://raw.githubusercontent.com/proudparrot2/cdn/main/8z9zeDIT_400x400-removebg-preview.png'
+    
     },
     {
       'id': 'vscode',
