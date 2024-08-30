@@ -12,9 +12,9 @@ const apps = [
       
     },
     {
-      "id": "discord",
-      "title": "Discord",
-      "url": "https://discord.com/app",
+      "id": "Rom",
+      "title": "Rom files for Emulator",
+      "url": "https://sites.google.com/site/minecrafterdiskstation/roms",
       'image': 'https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg'
     },
     {
