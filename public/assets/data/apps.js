@@ -18,9 +18,9 @@ const apps = [
       'image': 'https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg'
     },
     {
-      "id": "telegram",
-      "title": "Telegram",
-      "url": "https://web.telegram.org/a/",
+      "id": "retrobowl",
+      "title": "Retrobowl",
+      "url": "https://eduonlin3.vercel.app/",
       'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png'
     }, 
     {
