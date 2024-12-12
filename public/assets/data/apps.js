@@ -27,13 +27,10 @@ const apps = [
       "id": "geforce",
       "title": "GeForce NOW (may not work)",
       "url": "https://play.geforcenow.com",
-      'image': 'https://raw.githubusercontent.com/proudparrot2/cdn/main/8z9zeDIT_400x400-removebg-preview.png'
-    },
-    {
-      'id': 'vscode',
-      'title': 'Visual Studio Code',
-      'url': 'https://vscode.dev/',
-      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'
+      'image': 'https://raw.githubusercontent.com/proudparrot2/cdn/main/8z9zeDIT_400x400-removebg-preview.
+          
+      
+    
     },
     {
       "id": "reddit",
